@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+pyyaml
+python-dotenv
+azure-openai
+requests
