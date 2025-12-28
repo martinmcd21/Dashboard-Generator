@@ -1,0 +1,30 @@
+reports:
+  recruitment:
+    name: Recruitment & Hiring
+    schema: recruitment
+    pbix: templates/Recruitment and Hiring.pbix
+
+  retention:
+    name: Employee Retention & Turnover
+    schema: retention
+    pbix: templates/Employee Retention and Turnover.pbix
+
+  payroll:
+    name: Payroll & Compensation
+    schema: payroll
+    pbix: templates/Payroll.pbix
+
+  engagement:
+    name: Employee Satisfaction & Engagement
+    schema: engagement
+    pbix: templates/Employee Satisfaction.pbix
+
+  compliance:
+    name: HR Compliance
+    schema: compliance
+    pbix: templates/HR Compliance.pbix
+
+  learning:
+    name: Learning & Development
+    schema: learning
+    pbix: templates/L&D.pbix
