@@ -1,0 +1,31 @@
+{
+  "recruitment": {
+    "required": [
+      "Job ID",
+      "Job Title",
+      "Department",
+      "Job Openings",
+      "Filled Positions",
+      "Time-to-Hire (Days)",
+      "Cost-per-Hire (USD)",
+      "Offer Acceptance Rate (%)",
+      "Candidate Source",
+      "Date"
+    ],
+    "optional": ["Gender", "Ethnicity", "Age Group", "Job Level"]
+  },
+
+  "retention": {
+    "required": [
+      "Employee ID",
+      "Department",
+      "Hire Date",
+      "Turnover Status",
+      "Tenure (Years)",
+      "Year"
+    ],
+    "optional": ["Exit Date", "Exit Reason", "Engagement Score"]
+  }
+
+  // remaining schemas follow same structure
+}
